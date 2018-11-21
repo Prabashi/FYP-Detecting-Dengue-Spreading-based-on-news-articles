@@ -1,1 +1,353 @@
-Index,Publication_date,Numbers,Cases,Deaths,Dates,Districts
+Index,Publication_date,Sentence,Numbers,Cases,Deaths,Years,Months,Dates,Time_duration,Provinces,Districts,Places
+,,,,,,,,,,,,
+19,2/21/2018,"b'Enduring support of the respective authorities and positive contribution of the UA staff members across the branch network has led Union Manushyathwaya to successfully conduct over 50 dengue awareness programmes, over 100 thalassemia awareness programmes and 45 diabetes awareness programmes.'","['50', '100', '45']",['50 dengue'],[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+20,2/9/2018,"b'\xef\xbf\xbd \xef\xbf\xbdHaemophilia\xef\xbf\xbdThis is a very rare disease, with only around 2000 patients being present in all of Sri Lanka.'",['2000'],[],['2000 patients'],['2000'],[],[],[],[],[],['Sri Lanka']
+,,,,,,,,,,,,
+27,2/2/2018,"b'The intermittent rains experienced in many parts of the country right now has increased the threat of a dengue outbreak, while the number of dengue cases reported in the first five weeks of 2018 stood at 6,203 by today, with five deaths.'","['2018', '6,203']",[],['five deaths'],['2018'],[],[],[],[],[],['country']
+,,,,,,,,,,,,
+27,2/2/2018,"b'The Government Epidemiology Unit (GEU) announced today that during the last 12 months of the year 2017, 184,442 suspected dengue cases have been reported to the Epidemiology Unit throughout the island.'","['12', '2017, 184,442']","['2017, 184,442 suspected dengue cases']",[],['2017'],[],[],[],[],[],['island']
+,,,,,,,,,,,,
+59,11/21/2017,"b' As a result, the accuracy of these statistics is very low and only around 100 out of 150 patients reported is actually having Dengue fever,\xef\xbf\xbd they elaborated.'","['100', '150']",[],['150 patients'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+60,11/21/2017,"b' As a result, the accuracy of these statistics is very low and only around 100 out of 150 patients reported is actually having Dengue fever,\xef\xbf\xbd they elaborated.'","['100', '150']",[],['150 patients'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+66,10/31/2017,b' At the time of writing as many as 162952 cases of dengue have been reported; an all time high.',['162952'],['162952 cases'],[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+68,10/23/2017,"b'According to the Epidemiology Unit of the Health Ministry, there were 80,732 cases of dengue fever reported between January 1st and July 7th this year.'","['80,732', '1', '7']","['80,732 cases']",[],[],"['January', 'July']","['January 1', 'July 7']",[],[],[],[]
+,,,,,,,,,,,,
+68,10/23/2017,"b'This number includes 215 deaths as a result of the disease, and the worst hit was the Colombo District with 18,186 cases.'","['215', '18,186']","['18,186 cases']",['215 deaths'],[],[],[],[],[],['Colombo'],[]
+,,,,,,,,,,,,
+81,8/30/2017,"b' According to statistics at the Epidemiology Unit, a staggering 40, 625 dengue cases were recorded for the month of July alone, which is also the highest record for this year.'","['40, 625']","['40, 625 dengue cases']",[],[],['July'],['July '],[],[],[],[]
+,,,,,,,,,,,,
+81,8/30/2017,"b' It should also be noted that 144, 052 dengue cases have been reported since January this year.'","['144, 052']","['144, 052 dengue cases']",[],[],['January'],['January '],[],[],[],[]
+,,,,,,,,,,,,
+84,8/25/2017,"b'Western Province reported 22,186 dengue cases with 17,228 from Gampaha District and\xef\xbf\xbd5,616 from Kalutara District adding to the total figure.'","['22,186', '17,228', '5,616']","['22,186 dengue cases']",[],[],[],[],[],['Western'],"['Gampaha', 'Kalutara']",[]
+,,,,,,,,,,,,
+84,8/25/2017,"b' 3,255 dengue cases were reported from Jaffna, \xef\xbf\xbd4,135 from Batticaloa,\xef\xbf\xbd4,415 from Trinco,\xef\xbf\xbd5,943 from Kurunegala and\xef\xbf\xbd6,081 from RatnapuraOut \xef\xbf\xbdof around100,000 dengue cases reported so far this yearthere were close to\xef\xbf\xbd300\xef\xbf\xbddeathsThe Ministry of Health has pointed out that the number of dengue cases identified so far this year has doubled when compared to the total number of dengue cases reported last year.'","['3,255', '4,135', '4,415', '5,943', '6,081', '100,000', '300']","['3,255 dengue cases', '100,000 dengue cases']",[],[],[],[],"['so far', 'so far']",[],"['Jaffna', 'Batticaloa', 'Trinco', 'Kurunegala', 'Ratnapura']",[]
+,,,,,,,,,,,,
+84,8/25/2017,"b' Out \xef\xbf\xbdof around100,000 dengue cases reported so far this year there were close to 300 deaths.'","['100,000', '300']","['100,000 dengue cases']",['300 deaths'],[],[],[],['so far'],[],[],[]
+,,,,,,,,,,,,
+84,8/25/2017,"b' \xef\xbf\xbdAccording to statistics from the Ministry of Health\xef\xbf\xbds Epidemiology Unit 105,153 dengue fever cases have been reported across Sri Lanka up to July 24 this year.'","['105,153', '24']","['105,153 dengue fever cases']",[],[],['July'],['July 24'],[],[],[],['Sri Lanka']
+,,,,,,,,,,,,
+84,8/25/2017,"b' Ministry of Health statistics reveal that Colombo District in the Western Province reported 22,186 dengue cases with 17,228 from Gampaha District and 5,616 from Kalutara District adding to the total figure.'","['22,186', '17,228', '5,616']","['22,186 dengue cases']",[],[],[],[],[],['Western'],"['Colombo', 'Gampaha', 'Kalutara']",[]
+,,,,,,,,,,,,
+84,8/25/2017,"b' 3,255 dengue cases were reported from Jaffna, 4,135 from Batticaloa, 4,415 from Trinco, 5,943 from Kurunegala and 6,081 from Ratnapura highlight other districts where the dengue menace is prominent.'","['3,255', '4,135', '4,415', '5,943', '6,081']","['3,255 dengue cases']",[],[],[],[],[],[],"['Jaffna', 'Batticaloa', 'Trinco', 'Kurunegala', 'Ratnapura']",[]
+,,,,,,,,,,,,
+85,8/25/2017,"b' Apart from the 202 deaths, the damage to properties and livelihood exceeded a couple of billion rupees.'",['202'],[],['202 deaths'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+95,8/12/2017,"b' Out of this, about 1500 deaths can be prevented every year through improvement of infrastructure facilities to treat heart diseases and critical illness in children.'",['1500'],[],['1500 deaths'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+95,8/12/2017,"b' 120,000 from all 17,000 patients who have undergone treatment for their cardiac condition at LRH, we could have easily built this complex.'","['120,000', '17,000']",[],"['17,000 patients']",[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+100,8/7/2017,"b' Jasinghe said dengue patients being treated at the hospital had dropped to 185, in contrast to some 400 patients receiving treatment daily some time ago.'","['185', '400']",[],['400 patients'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+101,8/4/2017,b' For the record around 300 dengue related deaths have been reported.',['300'],['300 dengue'],[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+101,8/4/2017,"b' \xef\xbf\xbdWe have long-term data on the safety of our vaccine for 6 years post vaccination from a Phase IIB efficacy study involving 4002 subjects and for 5 and 4 years respectively from two phase III studies conducted in 10 dengue-endemic countries inAsia and Latin America involving more than 31,000 subjects.'","['6', '4002', '5', '4', '10', '31,000']",['10 dengue'],[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+103,8/4/2017,b' For the record around 300 dengue related deaths have been reported.',['300'],['300 dengue'],[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+103,8/4/2017,"b' \xef\xbf\xbdWe have long-term data on the safety of our vaccine for 6 years post vaccination from a Phase IIB efficacy study involving 4002 subjects and for 5 and 4 years respectively from two phase III studies conducted in 10 dengue-endemic countries inAsia and Latin America involving more than 31,000 subjects.'","['6', '4002', '5', '4', '10', '31,000']",['10 dengue'],[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+105,7/29/2017,"b' Doctors are striking for reasons that aren\xef\xbf\xbdt related to their profession while an upsurge of dengue hospitalizes more than 100,000 patients and leaves 300 dead.'","['100,000', '300']",[],"['100,000 patients']",[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+113,7/27/2017,"b' A record high of 100,000 dengue patients is an indirect consequence.'","['100,000']","['100,000 dengue']",[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+117,7/26/2017,"b' In 2016, 21 deaths were reported in connection with rabies.'","['2016, 21']",[],"['2016, 21 deaths']",['2016'],[],[],[],[],[],[]
+,,,,,,,,,,,,
+119,7/25/2017,"b'\xef\xbf\xbdTourism Minister, John Amaratunga told dailymirror that the country hadn\xef\xbf\xbdt been able to record the expected tourist arrivals during the month of June mainly due to the floods, dengue outbreak and the garbage crisis\xef\xbf\xbd103,114 suspected cases of dengue fever have been reported between January and July 2017 compared to 55,150 cases reported for the year 2016.'","['103,114', '2017', '55,150', '2016']","['103,114 suspected cases', '55,150 cases']",[],"['2017', '2016']","['June', 'January', 'July']","['June ', 'January ', 'July 20']",[],[],[],['country']
+,,,,,,,,,,,,
+120,7/25/2017,"b' The Epidemiology Unit told Daily Mirror that there have been 103,114suspected dengue cases reported since 2017 from all over the country.'","['103,114', '2017']","['103,114suspected dengue cases']",[],['2017'],[],[],[],[],[],['country']
+,,,,,,,,,,,,
+120,7/25/2017,b' Out of this figure 275 deaths have been reported so far.',['275'],[],['275 deaths'],[],[],[],['so far'],[],[],[]
+,,,,,,,,,,,,
+120,7/25/2017,"b' \xef\xbf\xbd\xef\xbf\xbdThe Western Province has recorded 45,030 cases so far this year, the most number of cases when considering all provinces.'","['45,030']","['45,030 cases']",[],[],[],[],['so far'],['Western'],[],[]
+,,,,,,,,,,,,
+120,7/25/2017,"b'\xef\xbf\xbdThere are nearly 4,500 patients and 12 deaths have been reported so far from the Negombo Hospital.'","['4,500', '12']",[],"['4,500 patients', '12 deaths']",[],[],[],['so far'],[],[],['Negombo']
+,,,,,,,,,,,,
+120,7/25/2017,"b' Although, there are nearly 800 dengue in- house patients now in the Hospital, the beds remaining are only 569.'","['800', '569']",['800 dengue'],[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+120,7/25/2017,"b' \xef\xbf\xbd\xef\xbf\xbd""There are nearly\xef\xbf\xbd4,500 patients\xef\xbf\xbdand\xef\xbf\xbd12 deaths\xef\xbf\xbdhave been reported so far from the Negombo Hospital""Jan -123, Feb - 95, March - 129, April - 218, May \xef\xbf\xbd 467, June \xef\xbf\xbd 1884 and July-934 \xef\xbf\xbdShe mentioned that the issue has emerged following the ongoing construction of the main building of the hospital which will be completed soon.'","['4,500', '12', '123', '95', '129', '218', '467', '1884', '934']",[],"['4,500 patients', '12 deaths']",[],"['Jan', 'Feb', 'March', 'April', 'May', 'June', 'July']","['Jan ', 'Feb ', 'March ', 'April ', 'May ', 'June ', 'July']",['so far'],[],[],['Negombo']
+,,,,,,,,,,,,
+126,7/20/2017,"b' \xef\xbf\xbdWe know the virus has taken a heavy toll in Sri Lanka with close to a 100,000 infected and 250 deaths and we are committed to helping Sri Lanka eradicate dengue once and for all,\xef\xbf\xbd Bishop said.'","['100,000', '250']",[],['250 deaths'],[],[],[],[],[],[],"['Sri Lanka', 'Sri Lanka']"
+,,,,,,,,,,,,
+128,7/20/2017,"b'\xef\xbf\xbd\xef\xbf\xbdThe Health Ministry has warned that dengue has now entered a pandemic stage as the resurgence of the mosquito-borne menace has killed over 240 people and affected 80,000 so far in this year compared to a total of 51,000 cases reported in 2016.'","['240', '80,000', '51,000', '2016']","['51,000 cases']",[],['2016'],[],[],['so far'],[],[],[]
+,,,,,,,,,,,,
+139,7/15/2017,"b'He said as of yesterday the number of patients had increased to 89,885 with 269 deaths.'","['89,885', '269']",[],['269 deaths'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+139,7/15/2017,"b'He said 136 deaths and 37,981 dengue patients were from the Western Province with Southern Province reporting 24 deaths and 10,709 patients while Sabaragamuwa Province reported 27 deaths and 9,688 patients.'","['136', '37,981', '24', '10,709', '27', '9,688']","['37,981 dengue']","['136 deaths', '24 deaths', '10,709 patients', '27 deaths', '9,688 patients']",[],[],[],[],"['Western', 'Southern', 'Sabaragamuwa']",[],[]
+,,,,,,,,,,,,
+139,7/15/2017,"b'He rejected certain media reports that there were 400,000 dengue patients and added this figure has been mentioned by someone with a demented mentality.'","['400,000']","['400,000 dengue']",[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+142,7/15/2017,"b' In addition, heat-related deaths in the region among the elderly are expected to increase by about 52,000 cases by 2050 due to climate change, according to data from the World Health Organization.'","['52,000', '2050']","['52,000 cases']",[],['2050'],[],[],[],[],[],[]
+,,,,,,,,,,,,
+144,7/14/2017,"b'e 182 days, there were 77000 dengue patients reported.'","['182', '77000']",['77000 dengue'],[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+144,7/14/2017,"b' As the disease lasts on average 1 week, on any day in the country there were 77000/182 x 7 = 2962 patients either at home or in hospital.'","['1', '77000', '182', '7', '2962']",[],['2962 patients'],[],[],[],[],[],[],['country']
+,,,,,,,,,,,,
+144,7/14/2017,b' All of the dengue viruses in Sri Lanka were inside these 2962 patients (and of course the infected mosquitoes).',['2962'],[],['2962 patients'],[],[],[],[],[],[],['Sri Lanka']
+,,,,,,,,,,,,
+146,7/13/2017,"b' \xef\xbf\xbd\xef\xbf\xbdAccording to statistics available with the hospital system, there are as many as 83,000 cases reported so far.'","['83,000']","['83,000 cases']",[],[],[],[],['so far'],[],[],[]
+,,,,,,,,,,,,
+149,7/12/2017,"b' So far this year nearly 76,000 cases of dengue have been reported countrywide with some patients including children succumbing to this lethal affliction.'","['76,000']","['76,000 cases']",[],[],[],[],[],[],[],['country']
+,,,,,,,,,,,,
+153,7/10/2017,"b' Last week the ministry said there were about 70,000 victims with some 200 deaths but since then no statistics had been issued.'","['70,000', '200']",[],['200 deaths'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+157,7/7/2017,"b' Last week the ministry said there were about 70,000 victims with some 200 deaths but since then no statistics had been issued.'","['70,000', '200']",[],['200 deaths'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+168,7/3/2017,"b' It is reported that nearly 70,000 cases have been detected so far all over the island and it has reached to a deadly disaster with 210 deaths reported within the first half of 2017.'","['70,000', '210', '2017']","['70,000 cases']",['210 deaths'],['2017'],[],[],['so far'],[],[],['island']
+,,,,,,,,,,,,
+168,7/3/2017,"b' \xef\xbf\xbd\xef\xbf\xbdThese larvae who are in the 4th stage can consume 350-400 dengue larvae during their larvae stage and those who are in the stages of 1, 2 and 3 can consume more than 100.'","['4', '350', '400', '1, 2', '3', '100']",['400 dengue'],[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+172,6/29/2017,"b' Anil Jasinghe, the Deputy Director GeneralOn average, the hospital houses 375 dengue patients, out of which, 75 are in the latent stage.'","['375', '75']",['375 dengue'],[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+172,6/29/2017,b' At least two patients are being accommodated in one bed.',[],[],['two patients'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+172,6/29/2017,b'\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdMedical professionals are doing their best\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdThere are at least two or three patients sharing one bed.',[],[],['three patients'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+172,6/29/2017,"b'\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdEradication of dengue must be carried out effectivelyAlthough patients are being accommodated in separate wards depending on their illnesses, we noticed that most beds are shared by two to three patients.'",[],[],['three patients'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+172,6/29/2017,b' Asela Gunawardana\xef\xbf\xbd\xef\xbf\xbdWe have 340 dengue patients admitted to the hospital at present.',['340'],['340 dengue'],[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+172,6/29/2017,b' The ward where her granddaughter was receiving treatment had 40 beds which were outnumbered with over a 100 patients where 60-70 of the patients were suffering from dengue.',"['40', '100', '60', '70']",[],['100 patients'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+172,6/29/2017,b' The ward housed 42 dengue patients with eight other patients who are at the dengue haemorrhagic stage.',['42'],['42 dengue'],[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+172,6/29/2017,"b' More than three patients were on the floor, due to shortage of beds in the ward.'",[],[],['three patients'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+172,6/29/2017,"b' Vajira Dissanayaka\xef\xbf\xbd\xef\xbf\xbdDeputy Director - Colombo North Teaching Hospital, Ragama\xef\xbf\xbd\xef\xbf\xbdThere were around 243 dengue patients by Monday with 98 cases with internal bleeding.'","['243', '98']","['243 dengue', '98 cases']",[],[],[],[],[],[],['Colombo'],[]
+,,,,,,,,,,,,
+172,6/29/2017,b' The total number of for a day ranges from 250 to 300 patients whereas the hospital has about 1000 beds.',"['250', '300', '1000']",[],['300 patients'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+172,6/29/2017,b'\xef\xbf\xbd \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdWe are now grappling with practical issues in treating patients as our staff has to take hourly measurements from about 40 patients in a ward.',['40'],[],['40 patients'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+185,6/22/2017,"b'With over a whopping 67, 205 cases and some 200 deaths being reported countrywide, the Dengue menace has reached new heights.'","['67, 205', '200']","['67, 205 cases']",['200 deaths'],[],[],[],[],[],[],['country']
+,,,,,,,,,,,,
+186,6/22/2017,"b'There were 587 dengue patients per 100,000 in the Colombo District, Colombo Chief Medical Officer Dr.'","['587', '100,000']",['587 dengue'],[],[],[],[],[],[],"['Colombo', 'Colombo']",[]
+,,,,,,,,,,,,
+186,6/22/2017,"b' Wijeymuni said that according to statistics, the Colombo City would have 421 dengue patients per 100,000 of the resident population.'","['421', '100,000']",['421 dengue'],[],[],[],[],[],[],['Colombo'],[]
+,,,,,,,,,,,,
+186,6/22/2017,"b' \xef\xbf\xbdHowever, there had only been 2,740 patients reported from the city.'","['2,740']",[],"['2,740 patients']",[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+186,6/22/2017,"b'Reading out statistics, the CMO stated that there were 298 dengue patients per 100,000 of population across the country.'","['298', '100,000']",['298 dengue'],[],[],[],[],[],[],[],['country']
+,,,,,,,,,,,,
+186,6/22/2017,"b' However, with at least 45 percent of the patients being reported from Western Province, statistics showed there were 448 dengue patients per 100,000 in the Province.'","['45', '448', '100,000']",['448 dengue'],[],[],[],[],[],['Western'],[],[]
+,,,,,,,,,,,,
+186,6/22/2017,"b' With at least 200 deaths reported due to the epidemic, 50 percent of which was reported from the Western Province, the three deaths reported from Colombo C i t y was a relief.'","['200', '50']",[],"['200 deaths', 'three deaths']",[],[],[],[],['Western'],['Colombo'],[]
+,,,,,,,,,,,,
+186,6/22/2017,"b'Health sources reported 61,000 dengue patients for the first six months of the year, while 51,000 patients were reported in 2016.'","['61,000', '51,000', '2016']","['61,000 dengue']","['51,000 patients']",['2016'],[],[],[],[],[],[]
+,,,,,,,,,,,,
+189,6/21/2017,b'The minister accepted that there are instances where two patients occupy one bed.',[],[],['two patients'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+191,6/20/2017,"b' Samantha Ananda said so far 63,987 dengue patients reported in the country and the total death toll exceeded 200 before the first six months where it was 78 deaths reported for the whole year in 2016.'","['63,987', '200', '78', '2016']","['63,987 dengue']",['78 deaths'],['2016'],[],[],['so far'],[],[],['country']
+,,,,,,,,,,,,
+191,6/20/2017,"b' He said 54,727 patients were reported in 2016.'","['54,727', '2016']",[],"['54,727 patients']",['2016'],[],[],[],[],[],[]
+,,,,,,,,,,,,
+198,6/14/2017,"b' According to our records, we have between 250\xef\xbf\xbd500 cases diagnosed in the last 10 years.'","['250', '500', '10']",['500 cases'],[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+204,6/7/2017,"b' Prachila Samaraweera of the Dengue Control Unit of Colombo, has said some 44,000 dengue patients had been reported countrywide with 115 deaths.'","['44,000', '115']","['44,000 dengue']",['115 deaths'],[],[],[],[],[],['Colombo'],['country']
+,,,,,,,,,,,,
+204,6/7/2017,"b' The number is massive compared to the previous year\xef\xbf\xbds figure where some 55,000 dengue patients were reported with 97 deaths for the entire 2016.'","['55,000', '97', '2016']","['55,000 dengue']",['97 deaths'],['2016'],[],[],[],[],[],[]
+,,,,,,,,,,,,
+204,6/7/2017,"b' The increase in dengue patients is scary when considering that in 2015 there were only 30,000 dengue patients with 54 deaths.'","['2015', '30,000', '54']","['30,000 dengue']",['54 deaths'],['2015'],[],[],[],[],[],[]
+,,,,,,,,,,,,
+206,6/5/2017,"b' \xef\xbf\xbdAs per statistics collected by the Epidemiology Unit, Ministry of Health Sri Lanka, it is \xef\xbf\xbdalarming that during the last 5 months of the year 2017, 52015 suspected dengue cases were reported from all over the island.'","['5', '2017, 52015']","['2017, 52015 suspected dengue cases']",[],['2017'],[],[],[],[],[],"['Sri Lanka', 'island']"
+,,,,,,,,,,,,
+211,5/30/2017,"b' Though there are six main wards in the Prison with nearly 300 patients, there are only three nursing officers.'",['300'],[],['300 patients'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+212,5/27/2017,b'Health Minister Rajitha Senaratne said the US Centre for Disease Control had so far sent out 900 dengue alerts globally with 400 alerts had sent out to countries in the Asian region.',"['900', '400']",['900 dengue'],[],[],[],[],['so far'],[],[],[]
+,,,,,,,,,,,,
+212,5/27/2017,"b' Gunawardene had said there were 45,000 dengue patients in Sri Lanka up to now.'","['45,000']","['45,000 dengue']",[],[],[],[],[],[],[],['Sri Lanka']
+,,,,,,,,,,,,
+214,5/19/2017,"b' Anil Jasinghe, said that currently there were about 100 Dengue patients admitted to NHSL, with about 25 patients who need close monitoring.'","['100', '25']",['100 Dengue'],['25 patients'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+214,5/19/2017,"b'\xef\xbf\xbd\xef\xbf\xbdHe advised the general public to avoid strenuous activities and to seek medical advice in case of a fever, and if hospitalized, to strictly follow the doctor\xef\xbf\xbds advice to drink fluid, because fluid management is a critical part of the treatment of dengue patients\xef\xbf\xbd""About 100 Dengue patients have been admitted to NHSL, with about 25 patients who need close monitoring.'","['100', '25']",['100 Dengue'],['25 patients'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+214,5/19/2017,"b' About 20 new patients are being admitted daily""\xef\xbf\xbd2,211 dengue patients admitted so far-Dr.'","['20', '2,211']","['2,211 dengue']",[],[],[],[],['so far'],[],[],[]
+,,,,,,,,,,,,
+214,5/19/2017,b' Vajira Dissanayake said there were 138 dengue patients in the ward as of midnight on May 14.',"['138', '14']",['138 dengue'],[],[],['May'],['May 14'],[],[],[],[]
+,,,,,,,,,,,,
+214,5/19/2017,"b' A total of 2,211 dengue patients have been admitted to the CNTH within this year, with 22 deaths.'","['2,211', '22']","['2,211 dengue']",['22 deaths'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+214,5/19/2017,b' \xef\xbf\xbd She said wards were overcrowded with more than 90 patients to 40 beds.',"['90', '40']",[],['90 patients'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+214,5/19/2017,"b' \xef\xbf\xbd""Wards were overcrowded with more than 90 patients to 40 beds""\xef\xbf\xbdNumber of patients will increase with rainy seasonDr.'","['90', '40']",[],['90 patients'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+214,5/19/2017,"b' Chandana Kendagamuwa said that by 7 am on May 15, the number of confirmed dengue patients admitted to the hospital was 188, with 56 suspected cases.'","['7', '15', '188', '56']",['56 suspected cases'],[],[],['May'],['May 15'],[],[],[],[]
+,,,,,,,,,,,,
+214,5/19/2017,"b' Only five months of this year have passed and there are over \xef\xbf\xbd40,000 dengue patients already.'","['40,000']","['40,000 dengue']",[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+214,5/19/2017,"b'\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdType 2 dengue, a more virulent virus plaguing the country\xef\xbf\xbd- Dr.'",['2'],['2 dengue'],[],[],[],[],[],[],[],['country']
+,,,,,,,,,,,,
+214,5/19/2017,b' \xef\xbf\xbdThe Type 2 dengue virus is a virulent virus compared to types 1 and 4.',"['2', '1', '4']",['2 dengue'],[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+214,5/19/2017,"b' For seven years, our country has not been exposed to the type 2 dengue virus, so people do not build up immunity to type 2 easily.'","['2', '2']",['2 dengue'],[],[],[],[],[],[],[],['country']
+,,,,,,,,,,,,
+214,5/19/2017,"b'\xef\xbf\xbd \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd""The Type 2 dengue virus is a virulent virus compared to types 1 and 4.'","['2', '1', '4']",['2 dengue'],[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+214,5/19/2017,"b' Prachila said that in 2016, 55,000 dengue patients were reported island wide with a death toll of 97 but when the current year is taken into consideration, for just five months, a number of 44,000 dengue patients were reported from across the island with a death toll of 115.'","['2016, 55,000', '97', '44,000', '115']","['2016, 55,000 dengue', '44,000 dengue']",[],['2016'],[],[],[],[],[],"['island', 'island']"
+,,,,,,,,,,,,
+214,5/19/2017,"b' \xef\xbf\xbd In 2015, there were reports of 30,000 dengue patients with a death toll of 54.'","['2015', '30,000', '54']","['30,000 dengue']",[],['2015'],[],[],[],[],[],[]
+,,,,,,,,,,,,
+228,4/14/2017,"b'\xef\xbf\xbdBrucellosis, bovine tuberculosis, and a range of food-borne diseases contribute to the morbidity and mortality attributable to zoonotic infections but are struggling to gain the attention of policymakers in the subcontinent, despite it resulting in 150 million illnesses, 175,000 deaths, and 12 million disability-adjusted life years,\xef\xbf\xbd the analysis said.'","['150', '175,000', '12']",[],"['175,000 deaths']",[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+229,4/12/2017,"b' With over 30, 486 cases being reported over the past three months, Dengue has become a widespread\xef\xbf\xbd epidemic with approximately over 41.'","['30, 486', '41']","['30, 486 cases']",[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+229,4/12/2017,"b' We had more than 25,000 cases on Dengue fever reported with more than fifty deaths.'","['25,000']","['25,000 cases']",['fifty deaths'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+229,4/12/2017,"b' We had more than 25,000 cases reported on Dengue fever with more than fifty deaths""\xef\xbf\xbdHe said despite experiencing a drought in February, Sri Lanka also experienced several episodes of rain.'","['25,000']","['25,000 cases']",['fifty deaths'],[],['February'],['February'],[],[],[],['Sri Lanka']
+,,,,,,,,,,,,
+229,4/12/2017,"b' Unlike in the past, we now get too many critical cases and are compelled to accommodate two patients in each bed in the Dengue Management Unit due to lack of beds.'",[],[],['two patients'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+239,2/17/2017,"b' \xef\xbf\xbd\xef\xbf\xbdIn 2016, there had been 54,945 cases reported while only 75 have died.'","['2016', '54,945', '75']","['54,945 cases']",[],['2016'],[],[],[],[],[],[]
+,,,,,,,,,,,,
+242,1/21/2017,"b'Some 3500 dengue patients have been found during the past three months of this year throughout the country of which 11 patients had died, Coordinator of the Dengue Eradication Unit of the Health Ministry, Dr.'","['3500', '11']",['3500 dengue'],['11 patients'],[],[],[],[],[],[],['country']
+,,,,,,,,,,,,
+243,12/30/2016,"b'Within the year 2016, with the support of the Public Health Department of the Colombo Municipal Council and the Public Health Inspector, UA was able to successfully conduct a total of 57 dengue awareness campaigns, over 60 thalassemia awareness programs and 14 diabetes prevention programmes.'","['2016', '57', '60', '14']",['57 dengue'],[],['2016'],[],[],[],[],['Colombo'],[]
+,,,,,,,,,,,,
+243,12/30/2016,"b' As a result of these efforts, 55 dengue prevention programmes were carried out simultaneously on a single day which was asignificant achievement.'",['55'],['55 dengue'],[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+247,12/14/2016,b' He has completely cured eight patients suffering from HIV and nearly 75 patients with Herpes.',['75'],[],"['eight patients', '75 patients']",[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+248,12/14/2016,b' He has completely cured eight patients suffering from HIV and nearly 75 patients with Herpes.',['75'],[],"['eight patients', '75 patients']",[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+250,11/30/2016,"b'Having identified the need for affordable healthcare among residents in Pattiwila \xef\xbf\xbd where Expack is based \xef\xbf\xbd the company carries out a Medicare Clinic thrice a week and has treated 30,000 patients to date.'","['30,000']",[],"['30,000 patients']",[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+251,11/23/2016,"b'To put things into perspective, the first eight months of this year alone over 38,000 cases of dengue were reported along with over 60 dengue-related deaths.'","['38,000', '60']","['38,000 cases', '60 dengue']",[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+254,9/23/2016,"b' The virus is unnoticed in 70-80% of the cases, and only 1 in every 5 cases of Zika infections result in Zika fever which is mild.'","['70', '80', '1', '5']",['5 cases'],[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+263,7/7/2016,"b'Since the detection of the first dengue case in 1962, this deadly mosquito-borne disease has spread rapidly in Sri Lanka and is reaching epidemic proportions this year with 27,731 cases reported up to the end of June 30.'","['1962', '27,731', '30']","['27,731 cases']",[],[],['June'],['June 30'],[],[],[],['Sri Lanka']
+,,,,,,,,,,,,
+264,7/6/2016,"b' The Lady Ridgeway Hospital which is deemed to be the prime children\xef\xbf\xbds hospital in the country, witness almost 70 dengue cases daily.'",['70'],['70 dengue cases'],[],[],[],[],[],[],[],['country']
+,,,,,,,,,,,,
+264,7/6/2016,"b' \xef\xbf\xbdAs of May 31, 2016 there have been 1340 dengue cases, out of which 211 were dengue haemorrhagic cases.'","['31, 2016', '1340', '211']",['1340 dengue cases'],[],['2016'],['May'],['May 31'],[],[],[],[]
+,,,,,,,,,,,,
+264,7/6/2016,b' There have been 2 deaths that were caused because the patients were transferred late.',['2'],[],['2 deaths'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+264,7/6/2016,"b' In 2015, there were 2561 dengue patients admitted to the hospital.'","['2015', '2561']",['2561 dengue'],[],['2015'],[],[],[],[],[],[]
+,,,,,,,,,,,,
+264,7/6/2016,b' \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdWe have around 70 cases of dengue everyday and have six special wards where dengue patients are treated.',['70'],['70 cases'],[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+265,6/29/2016,"b' If we are to put the numbers exactly the cases reported had been 20,731 of which 4,761 cases had been reported from the densely populated Western Province.'","['20,731', '4,761']","['4,761 cases']",[],[],[],[],[],['Western'],[],[]
+,,,,,,,,,,,,
+265,6/29/2016,b' More than 160 dengue patients including 12 students had been admitted by Sunday to the IDH Hospital alone which deals mainly with infectious diseases and is situated close to the flood-affected areas.',"['160', '12']",['160 dengue'],[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+266,6/26/2016,"b'More than 20,000 dengue cases have been reported from all over the country for the past six months claiming 31 lives, the dengue Eradication Programme of the Health Ministry said today.'","['20,000', '31']","['20,000 dengue cases']",[],[],[],[],[],[],[],['country']
+,,,,,,,,,,,,
+266,6/26/2016,"b'A statement issued by the Health Ministry said out of the 20,731 cases reported so far 47.'","['20,731', '47']","['20,731 cases']",[],[],[],[],['so far'],[],[],[]
+,,,,,,,,,,,,
+266,6/26/2016,b'61 cases had been reported from the Western Province.',['61'],['61 cases'],[],[],[],[],[],['Western'],[],[]
+,,,,,,,,,,,,
+267,6/22/2016,"b'More than 500 dengue patients had been admitted daily and during the last six months, 18, 735 suspected dengue cases have been reported to the Epidemiology Unit from all over the island.'","['500', '18, 735']","['500 dengue', '18, 735 suspected dengue cases']",[],[],[],[],[],[],[],['island']
+,,,,,,,,,,,,
+271,4/26/2016,b' 12 patients who came to my clinic voluntarily agreed to take papaya leaves and then take blood tests when it was found that their platelet count and WBC counts had increased with improvement of their overall medical condition.',['12'],[],['12 patients'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+271,4/26/2016,b' We examined the thorax of all the patients daily and found that only two patients from the treated group had fluid in their lungs compared to ten in the untreated group.',[],[],['two patients'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+272,4/2/2016,"b' It said that from January to March this year, 13,275 suspected dengue cases were reported from all parts of the country.'","['13,275']","['13,275 suspected dengue cases']",[],[],"['January', 'March']","['January ', 'March ']",[],[],[],['country']
+,,,,,,,,,,,,
+295,9/30/2015,"b' The maternal mortality rate, which stood at 92 deaths per 100,000 live births in 1990, plummeted to 33 by 2010.'","['92', '100,000', '1990', '33', '2010']",[],['92 deaths'],['2010'],[],[],[],[],[],[]
+,,,,,,,,,,,,
+295,9/30/2015,"b' Old diseases like tuberculosis (8,000 cases per year) stubbornly persist.'","['8,000']","['8,000 cases']",[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+297,9/23/2015,"b' The first nine months of this year recorded 20,058 cases; last year, a peak year for dengue, saw close to 29,000 cases over the same period, according to Health Ministrydata.'","['20,058', '29,000']","['20,058 cases', '29,000 cases']",[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+315,3/11/2015,"b' In 2014 the country reported nearly 40,000 dengue cases, a level of burden that has been consistent over the past few years.'","['2014', '40,000']","['40,000 dengue cases']",[],['2014'],[],[],[],[],[],['country']
+,,,,,,,,,,,,
+320,10/17/2014,b' The World Health Organisation (WHO) and others intervened immediately and effectively to limit the number of victims to 284 with 151 deaths.',"['284', '151']",[],['151 deaths'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+320,10/17/2014,"b' As of October 14, there have been 8,914 Ebola cases and 4,447 deaths reported.'","['14', '8,914', '4,447']",[],"['4,447 deaths']",[],['October'],['October 14'],[],[],[],[]
+,,,,,,,,,,,,
+320,10/17/2014,"b' He said there were about 1000 cases a week now but warned it could soar to between 5000 and 10,000 cases a week by December this year if not effectively checked.'","['1000', '5000', '10,000']","['1000 cases', '10,000 cases']",[],[],['December'],['December '],[],[],[],[]
+,,,,,,,,,,,,
+320,10/17/2014,"b'\t\tWhile the WHO and medical scientists have still not found an effective vaccine or drug to prevent or cure Ebola, Sri Lanka\xef\xbf\xbds online Homoeopathy specialist Joe de Livera says \xef\xbf\xbdhe believes the\xef\xbf\xbdhomoeopathic remedy Eupatorium Perfoliatum 200, which has cured more than 300 dengue patients, could be tested and used for Ebola patients.'","['200', '300']",['300 dengue'],[],[],[],[],[],[],[],['Sri Lanka']
+,,,,,,,,,,,,
+321,10/17/2014,b' The World Health Organisation (WHO) and others intervened immediately and effectively to limit the number of victims to 284 with 151 deaths.',"['284', '151']",[],['151 deaths'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+321,10/17/2014,"b' As of October 14, there have been 8,914 Ebola cases and 4,447 deaths reported.'","['14', '8,914', '4,447']",[],"['4,447 deaths']",[],['October'],['October 14'],[],[],[],[]
+,,,,,,,,,,,,
+321,10/17/2014,"b' He said there were about 1000 cases a week now but warned it could soar to between 5000 and 10,000 cases a week by December this year if not effectively checked.'","['1000', '5000', '10,000']","['1000 cases', '10,000 cases']",[],[],['December'],['December '],[],[],[],[]
+,,,,,,,,,,,,
+321,10/17/2014,"b'\t\tWhile the WHO and medical scientists have still not found an effective vaccine or drug to prevent or cure Ebola, Sri Lanka\xef\xbf\xbds online Homoeopathy specialist Joe de Livera says \xef\xbf\xbdhe believes the\xef\xbf\xbdhomoeopathic remedy Eupatorium Perfoliatum 200, which has cured more than 300 dengue patients, could be tested and used for Ebola patients.'","['200', '300']",['300 dengue'],[],[],[],[],[],[],[],['Sri Lanka']
+,,,,,,,,,,,,
+322,10/13/2014,"b' Official records show that there were over 32,000 cases of Dengue in urban areas of Sri Lanka last year, in particular, Colombo, where nearly a third of the country\xef\xbf\xbds population is concentrated today.'","['32,000']","['32,000 cases']",[],[],[],[],[],[],['Colombo'],"['Sri Lanka', 'country']"
+,,,,,,,,,,,,
+323,10/12/2014,"b' Official records show that there were over 32,000 cases of Dengue in urban areas of Sri Lanka last year, in particular, Colombo, where nearly a third of the country\xef\xbf\xbds population is concentrated today.'","['32,000']","['32,000 cases']",[],[],[],[],[],[],['Colombo'],"['Sri Lanka', 'country']"
+,,,,,,,,,,,,
+331,6/17/2014,"b'\xef\xbf\xbd For example, during March and April more than 100 dengue positive patients were admitted to Nawaloka and they recovered completely without any serious complications or deaths.'",['100'],['100 dengue'],[],[],"['March', 'April']","['March ', 'April ']",[],[],[],[]
+,,,,,,,,,,,,
+334,5/22/2014,"b'\t\tUp to Monday (19), 40 dengue patients had been admitted to the Ratnapura General Hospital including 30 students from St.'","['19', '40', '30']",['40 dengue'],[],[],[],[],[],[],['Ratnapura'],[]
+,,,,,,,,,,,,
+334,5/22/2014,"b'\t\tWith eighty patients admitted to the hospital after Monday, about 150 dengue patients were currently receiving treatment at the hospital, the medical superintendent said.'",['150'],['150 dengue'],['eighty patients'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+334,5/22/2014,"b'\t\tHowever 12 cases diagnosed as dengue patients are currently under medical treatment at the Ratnapura General Hospital, the health authorities said.'",['12'],['12 cases'],[],[],[],[],[],[],['Ratnapura'],[]
+,,,,,,,,,,,,
+339,4/19/2014,b'According to the Epidemiology Unit a total of 34 cases of leptospirosis were reported in Colombo this year.',['34'],['34 cases'],[],[],[],[],[],[],['Colombo'],[]
+,,,,,,,,,,,,
+339,4/19/2014,b' It also reported that 708 cases of leptospirosis were detected in the island in March and another 221 in April.',"['708', '221']",['708 cases'],[],[],"['March', 'April']","['March ', 'April']",[],[],[],['island']
+,,,,,,,,,,,,
+354,8/20/2013,"b'What worries the health authorities is the continuous, uncontrolled detection of a 2000 cases more or less each year.'",['2000'],['2000 cases'],[],['2000'],[],[],[],[],[],[]
+,,,,,,,,,,,,
+365,2/7/2013,"b'The Daily Mirror on Wednesday reported the sad news of the loss of 220 precious lives out of 44,395 dengue cases reported last year.'","['220', '44,395']","['44,395 dengue cases']",[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+383,6/17/2012,"b'14, 500 dengue patients and 80 deaths for the last five months are no forgivable numbers.'","['14, 500', '80']","['14, 500 dengue']",['80 deaths'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+386,2/22/2012,"b'\t\tMeanwhile the Government Epidemiology Unit (GEU) said 5,802 suspected dengue cases and 24 deaths have been reported countrywide during the first two months this year.'","['5,802', '24']","['5,802 suspected dengue cases']",['24 deaths'],[],[],[],[],[],[],['country']
+,,,,,,,,,,,,
+390,2/2/2012,b'Health authorities have warned that the Ratmalana Railway workshop has been a breeding ground for dengue mosquitoes and that 80 dengue positive patients were reported from the area.',['80'],['80 dengue'],[],[],[],[],[],[],[],['Ratmalana']
+,,,,,,,,,,,,
+395,12/16/2011,"b'In 2010, 22,926 patients and 241 deaths were reported.'","['2010, 22,926', '241']",[],"['2010, 22,926 patients', '241 deaths']",['2010'],[],[],[],[],[],[]
+,,,,,,,,,,,,
+395,12/16/2011,"b' However, only 22,926 patients and 163 deaths have been reported this year.'","['22,926', '163']",[],"['22,926 patients', '163 deaths']",[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+399,9/14/2011,"b' Since then, this time it is one of the major outbreaks of the disease so far in which over 3000 cases are reported from the provincial capital Lahore alone.'",['3000'],['3000 cases'],[],[],[],[],['so far'],[],[],[]
+,,,,,,,,,,,,
+402,8/2/2011,"b'The number of deaths from dengue has risen to a staggering 112 while 13,975 dengue cases have been reported in the first seven months of the year, the Government Epidemiology Unit said yesterday.'","['112', '13,975']","['13,975 dengue cases']",[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+402,8/2/2011,"b'It said the worst affected districts were Colombo with 5,454 cases of dengue and 51 deaths; Gampaha 2.'","['5,454', '51', '2']","['5,454 cases']",['51 deaths'],[],[],[],[],[],"['Colombo', 'Gampaha']",[]
+,,,,,,,,,,,,
+402,8/2/2011,"b'031 cases and 16 deaths; Kalutara 767 cases and six deaths; Kandy 461 cases and two deaths; Galle 453 cases and one death; Matara 298 cases and four deaths, Batticaloa 651 cases and nine deaths, Kurunegala 528 deaths and four deaths, Puttalam 322 cases and six deaths while Ratnapura had 551 cases and three deaths.'","['031', '16', '767', '461', '453', '298', '651', '528', '322', '551']","['031 cases', '767 cases', '461 cases', '453 cases', '298 cases', '651 cases', '322 cases', '551 cases']","['16 deaths', 'six deaths', 'two deaths', 'one death', 'four deaths', 'nine deaths', '528 deaths', 'four deaths', 'six deaths', 'three deaths']",[],[],[],[],[],"['Kalutara', 'Kandy', 'Galle', 'Matara', 'Batticaloa', 'Kurunegala', 'Puttalam', 'Ratnapura']",[]
+,,,,,,,,,,,,
+406,6/25/2011,"b' The Municipality\xef\xbf\xbds Chief Medical Officer Pradeep Kariyawasam said there had been 1,477 patients suspected to be suffering from dengue in Colombo but on examining the diagnosis card of each patient it was found that only 769 patients had been confirmed cases of dengue.'","['1,477', '769']",[],"['1,477 patients', '769 patients']",[],[],[],[],[],['Colombo'],[]
+,,,,,,,,,,,,
+407,6/22/2011,"b' He said more than 1,000 patients get treatment at the OPD for fever and another 200 admitted daily for further treatment.'","['1,000', '200']",[],"['1,000 patients']",[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+412,5/29/2011,"b' \xef\xbf\xbdThere are about 10 to 15 patients being admitted to a hospital each day due to the vast spread of the disease,\xef\xbf\xbd CMC Chief Medical Officer, Pradeep Kariyawasam saidHe added that there have been 905 cases of dengue and eight deaths due to the illness reported since January this year and that the numbers are further on the rise due to the heavy rain experienced in some areas.'","['10', '15', '905']",['905 cases'],"['15 patients', 'eight deaths']",[],['January'],['January '],[],[],[],[]
+,,,,,,,,,,,,
+413,5/26/2011,"b'There were 6,035 cases of dengue reported island wide as at yesterday with 49 deaths as per the data available at the Government Epidemiology Unit.'","['6,035', '49']","['6,035 cases']",['49 deaths'],[],[],[],[],[],[],['island']
+,,,,,,,,,,,,
+414,5/24/2011,b'By Yohan Perera The Colombo City is facing the worst dengue epidemic ever Colombo Municipal Council (CMC) said yesterday revealing that there had been 195 cases reported this month.',['195'],['195 cases'],[],[],[],[],[],[],"['Colombo', 'Colombo']",[]
+,,,,,,,,,,,,
+415,4/26/2011,b' According to the latest reports 32 deaths related to Dengue have been reported while 31 deaths have been reported due to Rat fever.',"['32', '31']",[],"['32 deaths', '31 deaths']",[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+415,4/26/2011,"b'During the period of January - April this year, a total number of 2785 cases of rat fever have been reported while some 3778 cases of Dengue have been reported to which includes 710 cases in April alone.'","['2785', '3778', '710']","['2785 cases', '3778 cases', '710 cases']",[],[],"['January', 'April', 'April']","['January ', 'April ', 'April ']",[],[],[],[]
+,,,,,,,,,,,,
+419,12/6/2010,b'\tThere were only 36 deaths until the end of November this year and the total number of deaths stood at 58 in 2009.',"['36', '58', '2009']",[],['36 deaths'],['2009'],['November'],['November '],[],[],[],[]
+,,,,,,,,,,,,
+423,9/11/2010,"b' According to the latest global figures, in the southeast Asia region (SEAR), till July 10, Indonesia recorded 80,065 cases of dengue, Thailand 57,948 (till August 20), Sri Lanka 28,955 and Myanmar 12,000.'","['10', '80,065', '57,948', '20', '28,955', '12,000']","['80,065 cases']",[],[],"['July', 'August']","['July 10', 'August 20']",[],[],[],['Sri Lanka']
+,,,,,,,,,,,,
+423,9/11/2010,"b' In comparison, India recorded around 6,885 cases till August 10, Maldives 550, Bangladesh 76, Bhutan 16, Nepal 2 and Timor Leste 473.'","['6,885', '10', '550', '76', '16', '2', '473']","['6,885 cases']",[],[],['August'],['August 10'],[],[],[],[]
+,,,,,,,,,,,,
+423,9/11/2010,"b' Figures show Delhi has recorded just over 1,652 cases, which is small when seen in comparison to the population of the state.'","['1,652']","['1,652 cases']",[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+443,8/8/2010,"b' Referring to the situation in the school where 20 dengue cases were reported, he said it was found that stagnated water in the basement of the school auditorium may have caused it.'",['20'],['20 dengue cases'],[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+460,7/21/2010,"b' \t\tThis year so far, 158 dengue related deaths have been reported while more than 21,000 dengue cases have been reported countrywide.'","['158', '21,000']","['158 dengue', '21,000 dengue cases']",[],[],[],[],['so far'],[],[],['country']
+,,,,,,,,,,,,
+462,7/18/2010,"b'Papaya leaf juice mixed with honey will increase the blood platelet level of dengue patients, claimed a doctor who had treated 20 patients\xef\xbf\xbdusing this method.'",['20'],[],['20 patients'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+462,7/18/2010,"b' Ameen, a doctor at the Welipitiya ayurveda hospital has treated 20 patients using this treatment.'",['20'],[],['20 patients'],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+467,7/11/2010,"b' At present 19,722 dengue\xef\xbf\xbdpatients are receiving hospital treatment.'","['19,722']","['19,722 dengue']",[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+469,7/8/2010,"b'Dengue has turned into a widespread island wide epidemic with 19,117 cases and 132 deaths reported yesterday, of which the majority of victims were children.'","['19,117', '132']","['19,117 cases']",['132 deaths'],[],[],[],[],[],[],['island']
+,,,,,,,,,,,,
+470,5/30/2010,b' Pradeep Kariyawasam said that there had been 10 cases of Dengue in the city during the last ten days.',['10'],['10 cases'],[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+470,5/30/2010,b' In addition there had been around 50 cases of dengue within the month of May.',['50'],['50 cases'],[],[],['May'],['May'],[],[],[],[]
+,,,,,,,,,,,,
+474,3/18/2010,"b'\tAccording to statistics, more than 9000 cases of dengue have already been reported isalndwide this year.'",['9000'],['9000 cases'],[],[],[],[],[],[],[],[]
+,,,,,,,,,,,,
+475,3/15/2010,b'\tThe Ministry said that over 9000 cases of dengue have already been reported islandwide with over 500 reported in March alone.',"['9000', '500']",['9000 cases'],[],[],['March'],['March '],[],[],[],['island']
