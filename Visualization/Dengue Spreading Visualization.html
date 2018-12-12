@@ -16,6 +16,61 @@
     <script>
 // Initialize and add the map
 function initMap() {
+<<<<<<< HEAD
+
+var cities=[
+	['Kandy',7.2955,80.6356,100,'http://www.dailynews.lk/2017/03/20/local/110914/countrywide-dengue-eradication-programme-march-29-april-4'],
+	['Matara', 5.954920,80.554955,52,'http://www.dailynews.lk/2017/03/20/local/110914/countrywide-dengue-eradication-programme-march-29-april-4'],
+	['Colombo',6.927079,79.861244,0,'http://www.dailynews.lk/2017/03/20/local/110914/countrywide-dengue-eradication-programme-march-29-april-4']
+];
+
+
+
+
+ // The map, centered at Kandy
+  var kandy = {lat: 7.2955, lng: 80.6356}; 
+  
+  var map = new google.maps.Map(
+      document.getElementById('map'), {
+        zoom: 8,
+        center: kandy
+      });
+
+  // var infowindow = new google.maps.InfoWindow();
+
+
+  
+  for(var i=0;i<cities.length;i++){
+  	var city=cities[i];
+  	var marker = new google.maps.Marker({
+  		position:{lat:city[1],lng:city[2]}, 
+  		map: map
+  		
+  	});
+
+  	var article="Go to article";
+  	var result=article.link(city[4]);
+	
+
+	var infowindow = new google.maps.InfoWindow();
+	// marker.addListener('click', function() {
+ //              infowindow.setContent('<div><strong>' + city[0] + '</strong><br>' +
+ //                'Number of Deaths: ' + city[3] + '<br>' +
+ //                result+ '</div>');
+ //              infowindow.open(map, this);
+ //            });
+
+  	google.maps.event.addListener(marker, 'mouseover', function() {
+              infowindow.setContent('<div><strong>' + city[0] + '</strong><br>' +
+                'Number of Deaths: ' + city[3] + '<br>' +
+                result+ '</div>');
+              infowindow.open(map, this);
+            });
+  }
+ 
+}
+
+=======
   // The location of Uluru
 // Kandy ->7.2955, 80.6356
   var uluru = {lat: 7.2955, lng: 80.6356};
@@ -28,6 +83,7 @@ function initMap() {
   // The marker, positioned at Uluru
   var marker = new google.maps.Marker({position: uluru, map: map});
 }
+>>>>>>> 2a1d20d7ecbe5750a17499cdcc2d08ac428aea53
     </script>
     <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD5-Qtl0D5MzeTz3LIxULFEIugSJeGdY3U&callback=initMap">
